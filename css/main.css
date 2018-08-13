@@ -1,5 +1,20 @@
+@font-face {
+    font-family: "2-Questa_Sans_Regular";
+    src: url("2-Questa_Sans_Regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body{
   margin: 0px;
+  font-family: '2-Questa_Sans_Regular';
+}
+
+.container{
+  height: auto;
+  width: 1050px;
+  margin: auto;
 }
 
 .navbar{
@@ -21,4 +36,48 @@ body{
   color: #000;
   text-decoration: none;
   padding: 24px;
+}
+
+.basic_info{
+  text-align: center;
+  position: relative;
+}
+
+.basic_info .name{
+ position: relative;
+ z-index: 1;
+}
+
+.basic_info .name h1{
+  margin: 0px;
+  opacity: 0.1;
+  font-size: 230px;
+}
+
+.basic_info .location{
+  text-align: left;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  z-index: 2;
+}
+
+.basic_info .location .img-text .text{
+  float: right;
+  margin-left: 25px;
+}
+
+.basic_info .location .img-text .circle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.basic_info .info p{
+  text-align: justify;
+  margin: 0px;
+  position: absolute;
+  padding: 0 200px;
+  bottom: 0px;
+  margin-left: 50px;
 }

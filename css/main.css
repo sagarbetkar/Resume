@@ -15,6 +15,7 @@ body{
   height: auto;
   width: 1050px;
   margin: auto;
+  text-align: center;
 }
 
 .navbar{
@@ -67,6 +68,13 @@ body{
   margin-left: 25px;
 }
 
+.basic_info .location .img-text .text h2{
+  margin-top: 0px;
+}
+.text p{
+  margin-bottom: 0px;
+}
+
 .basic_info .location .img-text .circle{
   width: 100px;
   height: 100px;
@@ -80,4 +88,41 @@ body{
   padding: 0 200px;
   bottom: 0px;
   margin-left: 50px;
+}
+
+.company p {
+  margin: 0px;
+  color: #929292;
+}
+.company h4 {
+  margin: 0px;
+}
+
+.work_exp .tech{
+  text-align: center;
+}
+
+.web-tech h5{
+  color: #929292;
+  margin-bottom: 0px;
+}
+.database h5{
+  color: #929292;
+  margin-bottom: 0px;
+}
+.framework h5{
+  color: #929292;
+  margin-bottom: 0px;
+}
+
+.web-tech p{
+  margin-top: 0px;
+}
+
+.database p{
+  margin-top: 0px;
+}
+
+.framework p{
+  margin-top: 0px;
 }

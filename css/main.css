@@ -98,11 +98,12 @@ section{
 }
 
 .company p {
-  margin: 0px;
+  margin: 0;
   color: #929292;
 }
 .company h4 {
-  margin: 0px;
+  margin-bottom: 5px;
+  margin-top: 0px;
 }
 
 .work_exp .tech{

@@ -11,7 +11,7 @@ class Footer extends React.Component {
             <div className="row">
               <div className="col-md-6">
                 <p>
-                  <i class="fa fa-copyright" aria-hidden="true" />
+                  <i className="fa fa-copyright" aria-hidden="true" />
                   2018 | Created by Sagar Betkar
                 </p>
               </div>

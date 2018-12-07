@@ -1,0 +1,38 @@
+.footer {
+  margin-top: 50px;
+}
+
+.social-medias {
+  text-align: right;
+  p {
+    font-weight: 100;
+  }
+  ul {
+    li {
+      display: inline;
+      margin: 0 10px;
+    }
+    .fa {
+      font-size: 25px;
+      color: #000;
+    }
+  }
+  .fa-twitter-square:hover {
+    color: #234ef3;
+  }
+  .fa-linkedin-square:hover {
+    color: #234ef3;
+  }
+  .fa-github-square:hover {
+    color: #234ef3;
+  }
+  .fa-instagram:hover {
+    color: #234ef3;
+  }
+  .fa-facebook-square:hover {
+    color: #234ef3;
+  }
+  .fa-medium:hover {
+    color: #234ef3;
+  }
+}

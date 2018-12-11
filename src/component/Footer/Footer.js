@@ -1,6 +1,7 @@
 import React from 'react';
 import '../Footer/Footer.scss';
-import '../../assets/scss/font-awesome.scss';
+import '../../assets/vendor/fontawesome-free/css/all.css';
+import '../../assets/vendor/font-awesome-4.7.0/scss/font-awesome.scss';
 
 class Footer extends React.Component {
   render() {
@@ -40,7 +41,7 @@ class Footer extends React.Component {
                     </li>
                     <li>
                       <a href="https://www.facebook.com/sagar.betkar">
-                        <i className="fa fa-facebook-square" aria-hidden="true" />
+                        <i className="fa fa-facebook-square" />
                       </a>
                     </li>
                     <li>

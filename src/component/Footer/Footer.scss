@@ -1,3 +1,5 @@
+@import '../../assets/scss/variables.scss';
+
 .footer {
   margin-top: 50px;
 }
@@ -18,21 +20,21 @@
     }
   }
   .fa-twitter-square:hover {
-    color: #234ef3;
+    color: $red;
   }
   .fa-linkedin-square:hover {
-    color: #234ef3;
+    color: $red;
   }
   .fa-github-square:hover {
-    color: #234ef3;
+    color: $red;
   }
   .fa-instagram:hover {
-    color: #234ef3;
+    color: $red;
   }
   .fa-facebook-square:hover {
-    color: #234ef3;
+    color: $red;
   }
   .fa-medium:hover {
-    color: #234ef3;
+    color: $red;
   }
 }

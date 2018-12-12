@@ -13,7 +13,6 @@ class Education extends React.Component {
                 <h3 className="mb-0">University of Mumbai</h3>
                 <div className="subheading mb-3">Bachelor of Engineering</div>
                 <div>Computer Science</div>
-                <p>GPA: 5.97</p>
               </div>
               <div className="resume-date text-md-right">
                 <span className="text-primary">PassedMay 2017</span>

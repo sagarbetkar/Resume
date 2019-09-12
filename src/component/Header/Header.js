@@ -12,7 +12,7 @@ class Header extends React.Component {
               <span className="text-primary">Betkar</span>
             </h1>
             <div className="subheading mb-5">
-              304, 64/A Lallubhai Compound · Tata Nagar rd, Mankhurd, Mumbai 400043 · (+91) 9702396398 ·
+              Mumbai, Maharashtra, India · (+91) 9702396398 ·
               <a href="mailto:sagarbetkar1994@gmail.com">sagarbetkar1994@gmail.com</a>
             </div>
             <p className="lead mb-5">

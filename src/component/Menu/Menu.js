@@ -13,7 +13,7 @@ class Menu extends React.Component {
               <img src={logo} alt="Logo" className="logo" />
             </span>
             <span className="d-none d-lg-block">
-              <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src={profilePic} alt="" />
+              <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src={profilePic} alt="Sagar Betkar" />
             </span>
           </a>
           <button

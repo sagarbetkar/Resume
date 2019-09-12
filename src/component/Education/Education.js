@@ -15,7 +15,7 @@ class Education extends React.Component {
                 <div>Computer Science</div>
               </div>
               <div className="resume-date text-md-right">
-                <span className="text-primary">PassedMay 2017</span>
+                <span className="text-primary">Passed May 2017</span>
               </div>
             </div>
           </div>
